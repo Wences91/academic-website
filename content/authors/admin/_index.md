@@ -43,13 +43,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Wences91
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=m1-k4iwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Wences91
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "wences@ugr.es"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Wenceslao Arroyo-Machado is PhD student in Information and Communication Technologies, supported by a FPU predoctoral fellowship at the Department of Information and Communication of the University of Granada (UGR). He holds a degree in Information and Documentation and a master’s degree in Data Science and Computer Engineering (UGR). He has worked as a researcher in the project Knowmetrics - evaluation of knowledge in the digital society funded by the BBVA Foundation and as technical support staff in Medialab UGR. His works focus on scientometrics and other areas derived related to the new paradigm of altmetrics and data science.
+Wenceslao Arroyo Machado is PhD student in Information and Communication Technologies, supported by a FPU predoctoral fellowship at the Department of Information and Communication of the University of Granada (UGR). He holds a degree in Information and Documentation and a master’s degree in Data Science and Computer Engineering (UGR). He has worked as a researcher in the project Knowmetrics - evaluation of knowledge in the digital society funded by the BBVA Foundation and as technical support staff in Medialab UGR. His works focus on scientometrics and other areas derived related to the new paradigm of altmetrics and data science.
