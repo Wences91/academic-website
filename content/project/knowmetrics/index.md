@@ -18,6 +18,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/knowmetrics/
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 The digital society regularly brings forth new forms of knowledge generation and dissemination that are outside the scope of traditional methods of assessment based on bibliometric impact. Likewise, the openness that characterizes social media requires us to measure other impacts of academic output besides those linked to research. This problem is particularly acute with disciplines undergoing a digital transformation, as is currently the case with digital humanities.
