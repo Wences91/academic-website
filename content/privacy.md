@@ -13,7 +13,3 @@ header:
 ---
 
 Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
-Nothing on this website requires you to identify yourself.
-The only personal information collected while you visit this site 
-is non-identifying information,
-such as browser type and operating system.
