@@ -5,7 +5,7 @@ name = "futura"
 google_fonts = "family=Lora&family=Mulish:wght@200;300&family=Open+Sans"
 
 # Font families
-heading_font = "Mulish"
+heading_font = "Lora"
 body_font = "Mulish"
 nav_font = "Mulish"
 mono_font = "Mulish"
