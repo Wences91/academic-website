@@ -269,3 +269,7 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+
+
+# Enable analytics by entering your Google Analytics tracking ID
+googleAnalytics = "UA-174044077-1"
