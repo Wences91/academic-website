@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Futura"
+
+# Optional Google font URL
+google_fonts = "Futura® BT"
+
+# Font families
+heading_font = "Futura® BT"
+body_font = "Futura® BT"
+nav_font = "Futura® BT"
+mono_font = "Futura® BT"
