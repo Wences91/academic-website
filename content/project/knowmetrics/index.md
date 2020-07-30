@@ -1,6 +1,6 @@
 ---
-title: Knowmetrics$:$ Knowledge measurement in the digital society
-summary: The project combining theoretical propositions with applied developments via the ‘Knowmetrics’ web platform, which constitutes the nucleus of the project and its communication plan..
+title: "Knowmetrics: Knowledge measurement in the digital society"
+summary: The project combining theoretical propositions with applied developments via the ‘Knowmetrics’ web platform, which constitutes the nucleus of the project and its communication plan.
 tags:
 - Digital Humanities
 - Altmetrics
