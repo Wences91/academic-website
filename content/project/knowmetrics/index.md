@@ -7,13 +7,17 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://knowmetrics.org/
+#external_link: http://knowmetrics.org/
 
 image:
   caption: Photo by Knowmetrics
   focal_point: Smart
 
 links:
+- icon: link
+  icon_pack: fas
+  name: Website
+  url: http://knowmetrics.org/
 - icon: twitter
   icon_pack: fab
   name: Follow
