@@ -2,10 +2,10 @@
 name = "Futura"
 
 # Optional Google font URL
-google_fonts = "Futura® BT"
+google_fonts = "Mulish"
 
 # Font families
-heading_font = "Futura® BT"
-body_font = "Futura® BT"
-nav_font = "Futura® BT"
-mono_font = "Futura® BT"
+heading_font = "Mulish"
+body_font = "Mulish"
+nav_font = "Mulish"
+mono_font = "Mulish"
