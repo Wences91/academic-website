@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include altmetrics and social network analysis.
+bio: My research interests include data science, altmetrics and social network analysis.
 
 interests:
 - Data science
@@ -54,6 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Wences91
+- icon: linkedin
+  icon_pack: fab
+  link: https://es.linkedin.com/in/wenceslao-arroyo-machado
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0001-9437-8757
