@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Wenceslao Arroyo Machado
+name: Wenceslao Arroyo-Machado
 
 # Username (this should match the folder name)
 authors:
@@ -47,9 +47,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=m1-k4iwAAAAJ
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Wenceslao_Arroyo-Machado
 - icon: github
   icon_pack: fab
   link: https://github.com/Wences91
+- icon: orcid
+  icon_pack: fab
+  link: http://orcid.org/0000-0001-9437-8757
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
