@@ -28,7 +28,7 @@
   url = "#contact"
   weight = 60
   
-[[menu.main]]
+[[main]]
   name = "Privacy"
   url = "#privacy"
   weight =  80
