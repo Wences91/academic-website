@@ -21,6 +21,7 @@ organizations:
 bio: My research interests include altmetrics and social network analysis.
 
 interests:
+- Data science
 - Altmetrics
 - Social Network Analysis
 
