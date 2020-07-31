@@ -26,7 +26,7 @@ The following cookies are used on this website:
 + Proprietary cookies:
   + cookieconsent_status: this indicates acceptance of the cookies policy on this Internet portal
 + Third-party cookies:
-  + Google Analytics (_ga, _gid, _gat, _gali). These are used to create statistics on the use of this website ([please see the Cookies Policy](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=en))
+  + Google Analytics (_ga, _gid, _gat_gtag_UA_*). These are used to create statistics on the use of this website ([please see the Cookies Policy](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=en))
 
 ## Acceptance of the Cookies Policy
 This website assumes that you accept the use of cookies to browse its content.
