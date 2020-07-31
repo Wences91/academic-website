@@ -267,12 +267,6 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "UA-174044077-1"
-#  google_tag_manager = ""
-
-[privacy]
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = false
-    respectDoNotTrack = true
-    useSessionStorage = false
+#  google_analytics = "UA-174044077-1"
+  google_tag_manager = ""
+googleAnalytics = "UA-174044077-1"
