@@ -41,10 +41,12 @@ tags:
 
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0228713&type=printable
+links:
+- icon: file-pdf
+  icon-package: fas
+  name: Full-text
+  url: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0228713&type=printable
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
