@@ -39,13 +39,7 @@ tags:
 featured: true
 
 links:
-- icon: link
-  icon_pack: fas
-  name: Journal
-  url: https://academic.oup.com/femsle/article-abstract/366/7/fnz075/5449010
-- icon: file-pdf
-  icon_pack: fas
-  name: Preprint
+- name: Preprint
   url: https://arxiv.org/ftp/arxiv/papers/1904/1904.00646.pdf
 url_pdf: ''
 url_code: ''
@@ -53,7 +47,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://academic.oup.com/femsle/article-abstract/366/7/fnz075/5449010
+url_source: ''
 url_video: ''
 
 # Featured image
