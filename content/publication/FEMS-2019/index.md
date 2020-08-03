@@ -40,7 +40,7 @@ featured: true
 
 links:
 - icon: file-pdf
-  icon-package: far
+  icon-package: fas
   name: Full-text
   url: https://arxiv.org/ftp/arxiv/papers/1904/1904.00646.pdf
 url_pdf: ''
