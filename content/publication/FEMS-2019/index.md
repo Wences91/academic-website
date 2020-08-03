@@ -39,7 +39,9 @@ tags:
 featured: true
 
 links:
-- name: Preprint
+- icon: file-pdf
+  icon-package: far
+  name: Full-text
   url: https://arxiv.org/ftp/arxiv/papers/1904/1904.00646.pdf
 url_pdf: ''
 url_code: ''
