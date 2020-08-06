@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Co-citation network of journals based on Wikipedia article references'
+  caption: 'Two-mode network of Microbiology publications and altmetric actors mentioning them'
   focal_point: ""
   preview_only: false
 
