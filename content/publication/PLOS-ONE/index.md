@@ -21,7 +21,7 @@ publishDate: "2020-02-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "PLOS ONE"
+publication: "*PLOS ONE, 15*(2)"
 publication_short: ""
 
 abstract: This study provides an overview of science from the Wikipedia perspective. A methodology has been established for the analysis of how Wikipedia editors regard science through their references to scientific papers. The method of co-citation has been adapted to this context in order to generate Pathfinder networks (PFNET) that highlight the most relevant scientific journals and categories, and their interactions in order to find out how scientific literature is consumed through this open encyclopaedia. In addition to this, their obsolescence has been studied through Price index. A total of 1 433 457 references available at Altmetric.com have been initially taken into account. After pre-processing and linking them to the data from Elsevier's CiteScore Metrics the sample was reduced to 847 512 references made by 193 802 Wikipedia articles to 598 746 scientific articles belonging to 14 149 journals indexed in Scopus. As highlighted results we found a significative presence of “Medicine” and “Biochemistry, Genetics and Molecular Biology” papers and that the most important journals are multidisciplinary in nature, suggesting also that high-impact factor journals were more likely to be cited. Furthermore, only 13.44% of Wikipedia citations are to Open Access journals.
