@@ -20,7 +20,7 @@ publishDate: "2019-07-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Informetrics"
+publication: "*Journal of Informetrics, 13*(3)"
 publication_short: ""
 
 abstract: The present study aims to establish a valid method by which to apply the co-citation methodology to Wikipedia article references and, subsequently, to map these relationships between scientific papers. This method, originally applied to scientific literature, will be transferred to the digital environment of collective knowledge generation. To this end, a dataset containing Wikipedia references collected from Altmetric and Scopus’ Journal Metrics journals has been used. The articles have been categorized according to the disciplines and specialties established in the All Science Journal Classification (ASJC). They have also been grouped by journal of publication. A set of articles in the Humanities, comprising 25555 Wikipedia articles with 41655 references to 32245 resources, has been selected. Finally, a descriptive statistical study has been conducted and co-citations have been mapped using networks and indicators of degree and betweenness centrality.
