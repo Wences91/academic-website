@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  placement:3
+  placement: 3
   caption: 'Co-citation map of specialties in the Humanities from the co-citations received from Wikipedia entries during the period 2007–2017 using the Pathfinder algorithm'
   focal_point: "Center"
   preview_only: false
