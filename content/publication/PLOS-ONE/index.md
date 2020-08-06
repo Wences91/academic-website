@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  placement: 1
+  placement: 2
   caption: 'Two-mode network of Microbiology publications and altmetric actors mentioning them'
   focal_point: "Center"
   preview_only: false
