@@ -20,7 +20,7 @@ publishDate: "2020-02-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "FEMS Microbiology Letters"
+publication: "*FEMS Microbiology Letters, 366*(7)"
 publication_short: ""
 
 abstract: This paper aims to map and identify topics of interest within the field of Microbiology and identify the main sources driving such attention. We combine data from Web of Science and Altmetric.com, a platform which retrieves mentions to scientific literature from social media and other non-academic communication outlets. We focus on the dissemination of microbial publications in Twitter, news media and policy briefs. A two-mode network of social accounts shows distinctive areas of activity. We identify a cluster of papers mentioned solely by regional news media. A central area of the network is formed by papers discussed by the three outlets. A large portion of the network is driven by Twitter activity. When analyzing top actors contributing to such network, we observe that more than half of the Twitter accounts are bots, mentioning 32% of the documents in our dataset. Within news media outlets, there is a predominance of popular science outlets. With regard to policy briefs, both international and national bodies are represented. Finally, our topic analysis shows that the thematic focus of papers mentioned varies by outlet. While news media cover the wider range of topics, policy briefs are focused on translational medicine and bacterial outbreaks.
@@ -55,6 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
+  placement: 3
   caption: 'Co-citation network of journals based on Wikipedia article references'
   focal_point: "Center"
   preview_only: false
