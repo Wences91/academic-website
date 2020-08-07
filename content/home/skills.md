@@ -33,3 +33,7 @@ subtitle = ""
   description = "100%"
 
 +++
+
+```{r}
+plot(cars)
+```
