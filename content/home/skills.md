@@ -33,8 +33,3 @@ subtitle = ""
   description = "100%"
 
 +++
-
-```{r diamond, fig.cap='diamonds plot with ggplot2.', tidy=FALSE}
-library(ggplot2)
-ggplot(diamonds, aes(x=carat, y=price, color=clarity)) + geom_point()
-```
