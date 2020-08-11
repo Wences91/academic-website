@@ -21,8 +21,8 @@ publishDate: "2018-09-11T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "23rd International Conference on Science and Technology Indicators"
-publication_short: "STI 2018"
+publication: "In *23rd International Conference on Science and Technology Indicators*"
+publication_short: "In *STI 2018*"
 
 abstract: The promotion of Open Science needs new metrics that encourage openness in scientific practices, and can help institutions to monitor it. In 2017, the European Commission (EC) created an Expert Group with the task of informing the commission on the possibility of including altmetric indicators as potential metrics that could foster and monitor open science advancements, but it failed to show how these metrics can help to foster Open Science. The current paper analyses differences in altmetric scores between Green OA publications, Gold OA publications and non OA publications. The goal of the paper is to empirically study whether altmetric indicators reinforce Open Access practices regardless of the type of access. We report a preliminary analysis based on two Physics journals. Our results show that gold OA documents are best covered in Altmetric.com and receive higher mentions than documents with other types of access. This is especially troublesome in the case of green OA, as it reflects that altmetric indicators do promote a very specific type of access closely linked with the publishing industry.
 
