@@ -51,7 +51,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: https://doi.org/10.5281/zenodo.3574153
 url_source: ''
 url_video: ''
 
