@@ -1,0 +1,76 @@
+---
+title: "Exploring WorldCat identities as an altmetric information source: a library catalog analysis experiment in the field of Scientometrics"
+authors:
+- Daniel Torres-Salinas
+- admin
+- Mike Thelwall
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2021-01-03T00:00:00Z"
+doi: "10.1007/s11192-020-03814-w"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2021-01-03T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+publication: "*Scientometrics, 126*"
+publication_short: ""
+
+abstract: Assessing the impact of scholarly books is a difficult research evaluation problem. Library Catalog Analysis facilitates the quantitative study, at different levels, of the impact and diffusion of academic books based on data about their availability in libraries. The WorldCat global catalog collates data on library holdings, offering a range of tools including the novel WorldCat Identities. This is based on author profiles and provides indicators relating to the availability of their books in library catalogs. Here, we investigate this new tool to identify its strengths and weaknesses based on a sample of Bibliometrics and Scientometrics authors. We review the problems that this entails and compare Library Catalog Analysis indicators with Google Scholar and Web of Science citations. The results show that WorldCat Identities can be a useful tool for book impact assessment but the value of its data is undermined by the provision of massive collections of ebooks to academic libraries.
+
+
+# Summary. An optional shortened abstract.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+- Library catalog analysis
+- Library holdings analysis
+- Libcitations
+- WorldCat Identities
+- WorldCat
+
+featured: true
+
+links:
+- icon: file-pdf
+  icon-package: fas
+  name: Preprint
+  url: https://arxiv.org/ftp/arxiv/papers/2011/2011.12626.pdf
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  placement: 3
+  caption: 'Library Holding and Web of Science Core Collection citations for the main Bibliometrics authors classified by status'
+  focal_point: "Center"
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
