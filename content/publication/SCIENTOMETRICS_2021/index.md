@@ -36,7 +36,7 @@ tags:
 - WorldCat Identities
 - WorldCat
 
-featured: true
+featured: false
 
 links:
 - icon: file-pdf
