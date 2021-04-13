@@ -60,6 +60,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0001-9437-8757
+- icon: spotify
+  icon_pack: fab
+  link: https://open.spotify.com/user/wences91
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
