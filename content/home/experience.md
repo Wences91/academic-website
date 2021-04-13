@@ -21,20 +21,16 @@ date_format = "Jan 2006"
   title = "Habilidades e Instrumentos para las Ciencias Sociales"
   company = "Universidad de Granada"
   company_url = ""
-  location = "California"
+  location = "Granada"
   date_start = "2020-09-01"
   date_end = "2020-11-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  3 ECTS credits
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Recursos Informativos para la Traducción e Interpretación"
+  company = "Universidad de Granada"
   company_url = ""
   location = "California"
   date_start = "2016-01-01"
