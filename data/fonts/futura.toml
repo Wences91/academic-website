@@ -6,6 +6,6 @@ google_fonts = "family=Dancing+Script&family=Lora&family=Mulish:wght@200;300&fam
 
 # Font families
 heading_font = "Mulish"
-body_font = "Mulish"
+body_font = "Dancing Script"
 nav_font = "Mulish"
 mono_font = "Mulish"
