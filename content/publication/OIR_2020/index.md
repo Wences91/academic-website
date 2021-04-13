@@ -24,17 +24,15 @@ publication: "*Online Information Review, 44*(7)"
 publication_short: ""
 
 abstract: "Purpose<br>
-&nbsp;
-The present paper uses Twitter to analyze the current state of the worldwide, Spanish-language, independent publishing market. The main purposes are to determine whether certain Latin American Spanish-language independent publishers function as gatekeepers of world literature and to analyze the geopolitical structure of this global market, addressing both the Europe-America dialectic and neocolonial practices.
-
-Design/methodology/approach\
-\
-After selecting the sample of publishers, the authors conducted a search for their Twitter profiles and located 131; they then downloaded data from the corresponding Twitter APIs. Finally, they applied social network analysis to study the presence of and interaction between the sample of independent publishers on this social media.
-
-Findings
-The results provide data-based evidence supporting the hypothesis of some literary critics who suggest that in Latin America, certain publishers act as gatekeepers to the mainstream book market. Therefore, Twitter could be considered a valid source of information to address the independent book market in Spanish. By extension, this approach could be applied to other cultural industries in which small and medium-sized agents develop a digital presence in social media.
-
-Originality/value
+The present paper uses Twitter to analyze the current state of the worldwide, Spanish-language, independent publishing market. The main purposes are to determine whether certain Latin American Spanish-language independent publishers function as gatekeepers of world literature and to analyze the geopolitical structure of this global market, addressing both the Europe-America dialectic and neocolonial practices.<br>
+<br>
+Design/methodology/approach<br>
+After selecting the sample of publishers, the authors conducted a search for their Twitter profiles and located 131; they then downloaded data from the corresponding Twitter APIs. Finally, they applied social network analysis to study the presence of and interaction between the sample of independent publishers on this social media.<br>
+<br>
+Findings<br>
+The results provide data-based evidence supporting the hypothesis of some literary critics who suggest that in Latin America, certain publishers act as gatekeepers to the mainstream book market. Therefore, Twitter could be considered a valid source of information to address the independent book market in Spanish. By extension, this approach could be applied to other cultural industries in which small and medium-sized agents develop a digital presence in social media.<br>
+<br>
+Originality/value<br>
 This paper combines social network analysis and literary criticism to provide new evidence about the Spanish-language book market. It helps validate the aforementioned hypothesis proposed by literary critics and opens up new paths along which to pursue an interpretative, comparative analysis."
 
 
