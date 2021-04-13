@@ -34,10 +34,21 @@
   weight = 80
   
 [[main]]
-  name = "CVA"
-  url = "#CVA"
+  name = "CV"
+  url = "#CV"
   weight = 90
 
+[[main]]
+  name = "CVA"
+  parent = "CV"
+  url = "#CVA"
+  weight = 10
+
+[[main]]
+  name = "CVN"
+  parent = "CV"
+  url = "#CVN"
+  weight = 20
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
