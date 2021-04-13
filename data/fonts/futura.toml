@@ -2,7 +2,7 @@
 name = "futura"
 
 # Optional Google font URL
-google_fonts = "family=Dancing+Script&family=Lora&family=Mulish:wght@200;300&family=Open+Sans"
+google_fonts = "Dancing+Script|Lora|Mulish|Open+Sans"
 
 # Font families
 heading_font = "Mulish"
