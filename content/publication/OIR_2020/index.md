@@ -24,6 +24,7 @@ publication: "*Online Information Review, 44*(7)"
 publication_short: ""
 
 abstract: "Purpose
+&nbsp;
 The present paper uses Twitter to analyze the current state of the worldwide, Spanish-language, independent publishing market. The main purposes are to determine whether certain Latin American Spanish-language independent publishers function as gatekeepers of world literature and to analyze the geopolitical structure of this global market, addressing both the Europe-America dialectic and neocolonial practices.
 
 Design/methodology/approach
@@ -47,7 +48,7 @@ tags:
 - Twitter
 - Transatlantic studie
 
-featured: true
+featured: false
 
 links:
 - icon: file-pdf
