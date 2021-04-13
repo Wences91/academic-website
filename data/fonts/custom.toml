@@ -1,8 +1,8 @@
 # Font style metadata
-name = "futura"
+name = "Custom"
 
 # Optional Google font URL
-google_fonts = "Dancing+Script|Lora|Mulish|Open+Sans"
+google_fonts = "Amatic+SC|Dancing+Script|Lora|Mulish|Open+Sans"
 
 # Font families
 heading_font = "Mulish"
