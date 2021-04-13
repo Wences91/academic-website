@@ -23,11 +23,12 @@ publication_types: ["2"]
 publication: "*Online Information Review, 44*(7)"
 publication_short: ""
 
-abstract: "Purpose
+abstract: "Purpose\
 &nbsp;
 The present paper uses Twitter to analyze the current state of the worldwide, Spanish-language, independent publishing market. The main purposes are to determine whether certain Latin American Spanish-language independent publishers function as gatekeepers of world literature and to analyze the geopolitical structure of this global market, addressing both the Europe-America dialectic and neocolonial practices.
 
-Design/methodology/approach
+Design/methodology/approach\
+\
 After selecting the sample of publishers, the authors conducted a search for their Twitter profiles and located 131; they then downloaded data from the corresponding Twitter APIs. Finally, they applied social network analysis to study the presence of and interaction between the sample of independent publishers on this social media.
 
 Findings
