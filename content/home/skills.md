@@ -31,5 +31,23 @@ subtitle = ""
   icon_pack = "fas"
   name = "Data science"
   description = "100%"
+  
+[[feature]]
+  icon = "apple"
+  icon_pack = "fab"
+  name = "macOS"
+#  description = "50%"
+  
+[[feature]]
+  icon = "windows"
+  icon_pack = "fab"
+  name = "Windows"
+#  description = "50%"  
+  
+[[feature]]
+  icon = "linux"
+  icon_pack = "fas"
+  name = "Linux"
+#  description = "100%"
 
 +++
