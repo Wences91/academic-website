@@ -1,9 +1,9 @@
 ---
 title: "Visualizando la discusión de comunidades de interés multisociales"
 authors:
-- admin
-- Daniel Torres-Salinas
-- Nicolas Robinson-Garcia
+- "Wenceslao Arroyo-Machado"
+- "Daniel Torres-Salinas"
+- "Nicolas Robinson-Garcia"
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
