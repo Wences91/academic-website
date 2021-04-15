@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  placement: 3
+  placement: 1
   caption: 'Mapas discusión de las comunidades 5 y 11 respecto a los globales de Twitter, noticias e informes de políticas y las menciones que las componen'
   focal_point: "Smart"
   preview_only: false
