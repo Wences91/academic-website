@@ -60,7 +60,7 @@ url_video: ''
 image:
   placement: 3
   caption: 'Mapas discusión de las comunidades 5 y 11 respecto a los globales de Twitter, noticias e informes de políticas y las menciones que las componen'
-  focal_point: "Center"
+  focal_point: "Smart"
   preview_only: false
 
 # Associated Projects (optional).
