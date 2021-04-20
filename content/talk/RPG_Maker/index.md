@@ -12,8 +12,8 @@ location: Virtual
 #  postcode: '94305'
 #  country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: "Curso sobre el uso del videojuego como recurso didáctico. Se realizará una introducción práctica a RPG Maker, una potente herramienta de creación de videojuegos que no requiere conocimientos de programación. Se presentará su interfaz y principales características usando para ello un caso práctico."
+abstract: "Desde Assassin's Creed a Minecraft, los videojuegos son un potente recurso didáctico. Ya sea para acercar de manera más dinámica e inmersiva los conocimientos al alumnado o para crear entornos virtuales que potencien determinadas habilidades o competencias. En este curso se va a realizar un breve repaso a la utilidad de los videojuegos dentro de las aulas y se va a introducir RPG Maker, una potente e intuitiva herramienta para el desarrollo de videojuegos. Gracias a sus posibilidades se pueden crear juegos educativos a medida sin tener ningún tipo de conocimiento en desarrollo de videojuegos o programación. De esta forma, se repasará su interfaz y principales características, usando para ello un caso reciente elaborado en RPG Maker MV. El objetivo es ofrecer un acercamiento práctico que sirva como primer paso para todas las personas interesadas en hacer uso de este recurso didáctico."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -30,6 +30,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Is this a featured talk? (true/false)
 featured: false
 
+image = "static/img/yosigopublicando.jpg"
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
