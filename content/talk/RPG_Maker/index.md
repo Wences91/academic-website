@@ -2,9 +2,9 @@
 title: "Educando con videojuegos: RPG Maker como recurso didáctico"
 
 event: "#yosigopublicando"
-event_url: https://example.org
+event_url: https://meet.google.com/yfk-hkzu-hao
 
-location: Wowchemy HQ
+location: Virtual
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -17,8 +17,8 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-06-04T11:30:00Z"
+date_end: "2021-06-04T13:30:00Z"
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -35,10 +35,10 @@ featured: false
 #  focal_point: Right
 
 links:
-- icon: twitter
+- icon: google
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Meet
+  url: https://meet.google.com/yfk-hkzu-hao
 url_code: ""
 url_pdf: ""
 url_slides: ""
