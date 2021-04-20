@@ -30,7 +30,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Is this a featured talk? (true/false)
 featured: false
 
-image = "static/img/yosigopublicando.jpg"
+image = "yosigopublicando.jpg"
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
