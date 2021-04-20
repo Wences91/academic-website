@@ -2,7 +2,7 @@
 title: "Educando con videojuegos: RPG Maker como recurso didáctico"
 
 event: "#yosigopublicando"
-event_url: https://meet.google.com/yfk-hkzu-hao
+event_url: https://sites.google.com/go.ugr.es/yosigopublicando/
 
 location: Virtual
 #address:
