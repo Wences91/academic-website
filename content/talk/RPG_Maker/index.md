@@ -30,7 +30,8 @@ publishDate: "2017-01-01T00:00:00Z"
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
+image:
+  image: "yosigopublicando.jpg"
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
@@ -58,7 +59,4 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 #projects:
 #- example
-
-[head]
-image = "yosigopublicando.jpg"
 ---
