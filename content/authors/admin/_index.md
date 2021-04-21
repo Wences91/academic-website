@@ -33,8 +33,6 @@ education:
   - course: Master's Degree in Data Science and Computer Engineering
     institution: University of Granada
     year: 2018
-  stays:
-  - stay: Leiden
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
