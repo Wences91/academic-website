@@ -35,14 +35,10 @@ image:
   focal_point: Left
 
 links:
-- icon: google
-  icon_pack: fab
-  name: Meet
-  url: https://meet.google.com/yfk-hkzu-hao
 url_code: ""
 url_pdf: ""
-url_slides: ""
-url_video: ""
+url_slides: "https://doi.org/10.5281/zenodo.4898820"
+url_video: "https://www.youtube.com/watch?v=DznKnwqk8Vo"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
