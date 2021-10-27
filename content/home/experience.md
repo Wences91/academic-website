@@ -20,12 +20,13 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Habilidades e Instrumentos para las Ciencias Sociales"
   company = "Universidad de Granada"
-  company_url = "https://filosofiayletras.ugr.es/pages/DOCENCIA/GRADOS/Guias-Docentes/ADENDAS_2019_2020/ANTROPOLOGIA/2941115adenda%20/%21"
+  company_url = "https://grados.ugr.es/ramas/ciencias-sociales-juridicas/grado-antropologia-social-y-cultural/habilidades-e-instrumentos-las-ciencias-sociales/guia-docente"
   location = "Granada"
-  date_start = "2020-09-01"
-  date_end = "2020-11-01"
+  date_start = "2021-09-13"
+  date_end = "2021-12-22"
   description = """
-  3 ECTS credits
+  5.5 ECTS credits
+  [Website](https://habilidadesinstrumentosccss.es/)
   """
 
 [[experience]]
@@ -39,4 +40,14 @@ date_format = "Jan 2006"
   3 ECTS credits
   """
 
+[[experience]]
+  title = "Habilidades e Instrumentos para las Ciencias Sociales"
+  company = "Universidad de Granada"
+  company_url = "https://filosofiayletras.ugr.es/pages/DOCENCIA/GRADOS/Guias-Docentes/ADENDAS_2019_2020/ANTROPOLOGIA/2941115adenda%20/%21"
+  location = "Granada"
+  date_start = "2020-09-01"
+  date_end = "2020-11-01"
+  description = """
+  3 ECTS credits
+  """
 +++
