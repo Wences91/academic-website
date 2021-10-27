@@ -35,7 +35,7 @@ image:
   focal_point: Left
 
 links:
-url_code: ""
+url_code: "https://yosigopublicando.ugr.es/courses/como-no-hacer-un-analisis-bibliometrico/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
