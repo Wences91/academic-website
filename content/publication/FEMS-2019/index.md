@@ -36,7 +36,7 @@ tags:
 - policy documents
 - microbiology
 
-featured: true
+featured: false
 
 links:
 - icon: file-pdf
