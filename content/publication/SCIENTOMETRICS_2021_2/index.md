@@ -37,7 +37,7 @@ tags:
 - Information science and library Science
 - Microbiology
 
-featured: false
+featured: true
 
 links:
 - icon: file-pdf
