@@ -36,8 +36,8 @@ image:
 
 links:
 - icon: link
-  name: #yosigopublicando
   icon_pack: fa
+  name: Link
   link: "https://yosigopublicando.ugr.es/courses/como-no-hacer-un-analisis-bibliometrico/"
 url_code: ""
 url_pdf: ""
